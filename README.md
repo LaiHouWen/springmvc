@@ -5,8 +5,8 @@ springmvc 一个简单的web工程的搭建
 
 参考文档
 三分钟学会用SpringMVC搭建最小系统（超详细）
-http://www.jianshu.com/p/0ccaa4af05fc
+### http://www.jianshu.com/p/0ccaa4af05fc
 
 一分钟学会在JavaWeb项目中配置数据源
-http://www.jianshu.com/p/8944864f5161
+### http://www.jianshu.com/p/8944864f5161
 
